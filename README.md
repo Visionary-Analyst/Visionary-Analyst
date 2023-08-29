@@ -1,2 +1,2 @@
 # Visionary-Analyst
-An AI Solution for communities
+OUR AI SOLUTION FOR HEALTHCARE SUPPORT FOR ELDERLY PEOPLE.
