@@ -3,3 +3,4 @@ AI tools we plan using to solve the problem:
 DRONES
 WEARABLE DEVICES
 ROBOTS
+sensors
